@@ -4,7 +4,7 @@ The purpose of the new analysis is to determine the number of retiring employees
 ## Results:
 * First, we are looking for employees who were born between 1952-01-01 and 1955-12-31 because they're the qualified employees to participate the program.
 <img width="799" alt="Screen Shot 2021-09-30 at 10 40 07 AM" src="https://user-images.githubusercontent.com/88211298/135504269-39223123-f3a8-469b-b918-da8304d62c2a.png">
-Second, we notice that there are a few employees have more than one title during their careers, and some employees have already retired as well. As result, what we should do is filter the current employeees who born in specific range with current titles.
+* Second, we notice that there are a few employees have more than one title during their careers, and some employees have already retired as well. As result, what we should do is filter the current employeees who born in specific range with current titles.
 <img width="875" alt="Screen Shot 2021-09-30 at 10 43 09 AM" src="https://user-images.githubusercontent.com/88211298/135504692-f32808a3-7c30-4309-a80a-790c6cb5e9dc.png">
 * Third, we want to know how many employees are retiring in the company for each recent job title, there are a lot!
 <img width="424" alt="Screen Shot 2021-09-30 at 10 47 39 AM" src="https://user-images.githubusercontent.com/88211298/135505388-61109366-c0c1-48df-9421-f930657b7f6d.png">
