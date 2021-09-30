@@ -17,4 +17,5 @@ The purpose of the new analysis is to determine the number of retiring employees
 For the first question, I select the birth_date <='1965-12-31' to see how many employees need to be filled as the "silver tsunami". From the table, we can see there are a lot of senior engineers and staffs are ready to retire, the other roles are engineer, staff, technique leader, assistant engineer and manager.<img width="979" alt="Screen Shot 2021-09-30 at 11 57 29 AM" src="https://user-images.githubusercontent.com/88211298/135514551-bb4cba75-0746-451c-bb7e-e05f2ff0193a.png">
 
 For the second question, we need to know how many employees in the mentorship program for each title. Compare to the table above, I cannot say enough staffs and engineers to cover the retiring employees because it depends on many situations, such as whether the retirement-ready-employees like to be mentors, what's the standard to be mentors, or how many new employees will be hired in the company. 
+
 <img width="659" alt="Screen Shot 2021-09-30 at 12 02 26 PM" src="https://user-images.githubusercontent.com/88211298/135515207-e69779e7-c01d-4548-9397-0f6be38822b7.png">
